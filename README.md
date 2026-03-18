@@ -12,10 +12,12 @@
 3. III
 4 SRI
 
-### CONFLICT-CODE here first person
+### CONFLICT-code for BOTH RESOLVED
+1. cccc
+2. oooo
+3. nnnn
+4. cccc
 1. 1234
 2. 0987
 3. 84784
 4. 9374823748
-
-
