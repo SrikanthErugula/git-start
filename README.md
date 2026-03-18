@@ -1,6 +1,6 @@
 
 ### Defination:
-A README.md file is the main documentation file in a Git repository. It describes the project, installation steps, usage instructions, and other important details so that developers can easily understand and use the project.
+A README.md file is the main documentation file in a Git repository. It describes the project, installation steps, usage instructions, and other important details so that developers can easily understand and use the project..
 
 ## APPLICATION code is below
 
